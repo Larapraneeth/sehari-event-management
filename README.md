@@ -110,8 +110,7 @@ This project currently has no start script. Optionally add one:
 }
 ```
 
-### License
-ISC License
 
 ### Acknowledgements
 Images and assets in `Images/` are for demonstration purposes.
+
